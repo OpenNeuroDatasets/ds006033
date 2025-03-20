@@ -1,0 +1,17 @@
+{
+    "participant_id": {
+        "Description": "Unique participant identifier"
+    },
+    "age": {
+        "Description": "Age of the participant"
+    },
+    "handedness": {
+        "Description": "Dominant hand of the participant"
+    },
+    "nationality": {
+        "Description": "Nationality of the participant"
+    },
+    "sex": {
+        "Description": "Biological sex of the participant"
+    }
+}
