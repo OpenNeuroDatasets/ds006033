@@ -17,7 +17,7 @@
     "ReferencesAndLinks": [
         " https://your-lab-website.com"
     ],
-    "DatasetDOI": "doi:10.18112/openneuro.ds006033.v1.0.0",
+    "DatasetDOI": "doi:10.18112/openneuro.ds006033.v1.0.1",
     "GeneratedBy": [
         {
             "Name": "MNE-BIDS",
