@@ -1,0 +1,32 @@
+{
+    "Name": "Synchronous EEG and fMRI dataset on inner speech",
+    "BIDSVersion": "1.7.0",
+    "HEDVersion": "8.3.0",
+    "DatasetType": "raw",
+    "Authors": [
+        "Foteini Simistira Liwicki"
+    ],
+    "License": "CC0",
+    "Funding": [
+        "Kompetensutveckling till professor, Lulea University of Technology, Sweden [LTU-154-2023]",
+        "Labbfonden Medel för infrastruktur vid Luleå tekniska universitet, 2023 [LTU-4908-2022]",
+        "Kempe Foundation, Sweden [JCSMK23-0102]"
+    ],
+    "Acknowledgements": "We thank the participants and research staff involved in data collection.",
+    "HowToAcknowledge": "Please cite: [Your Publication or DOI]",
+    "ReferencesAndLinks": [
+        " https://your-lab-website.com"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds006033.v1.0.1",
+    "GeneratedBy": [
+        {
+            "Name": "MNE-BIDS",
+            "Version": "0.12",
+            "Description": "BIDS conversion of EEG data."
+        }
+    ],
+    "SourceDatasets": [],
+    "EthicsApprovals": [
+        "The study was approved by the Swedish Ethical Review Authority (Etikprövning myndigheden, ID: 2023-05177-01) (https://etikprovningsmyndigheten.se/) in accordance with the Swedish Ethical Review Act (SFS 2003:460). "
+    ]
+}
