@@ -17,7 +17,7 @@
     "ReferencesAndLinks": [
         "https://www.ltu.se/luleauniversityoftechnology/research/researchsubjects/machinelearning/researchareas/healthintelligence"
     ],
-    "DatasetDOI": "doi:10.18112/openneuro.ds006033.v1.0.1",
+    "DatasetDOI": "doi:10.18112/openneuro.ds006033.v1.0.2",
     "GeneratedBy": [
         {
             "Name": "MNE-BIDS",
